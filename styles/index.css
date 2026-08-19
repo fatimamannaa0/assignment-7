@@ -67,10 +67,25 @@ a:hover {
     padding: 40px 20px 40px 20px;
 
 }
+#section1 {
+    position: relative;
+}
+
+
+.feature {
+    position: absolute;
+    top: -20px;
+    
+    right: 20px;
+    background-color: var(--accent-color);
+    color: antiquewhite;
+    padding: 0 10px;
+    
+}
 
  .sub-header {
     position: sticky;
-    
+    top: 70px;
     padding: 10px;
     color: var(--link-color);
     background-color: var(--primary-color);
