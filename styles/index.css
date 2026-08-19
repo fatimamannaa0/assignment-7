@@ -1,0 +1,41 @@
+nav {
+    position: fixed;
+    height: 60px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color:   #2c3e50;   
+}
+.sections {
+    position: absolute;
+    left: 20px;
+    margin-top: 30px;
+}
+
+.assignment {
+    position: absolute;
+    right: 20px;
+    margin-top: 30px;
+}
+
+.assignment p {
+    margin: 0px;
+    font-size: larger;
+    
+   
+}
+.sections p {
+    display: inline;
+    margin-right: 40px;
+    font-size: larger;
+   
+}
+a,
+a:visited {
+    color: antiquewhite;
+    text-decoration: none;
+}
+a:hover {
+    color: #e74c3c;
+}
+
